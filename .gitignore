@@ -1,2 +1,18 @@
-# Google App Engine generated folder
-appengine-generated/
+# project output folders
+Exports
+History
+Project Logs for Project NINJA-ECU
+Project Outputs for Project NINJA-ECU
+
+# project generated files
+*.htm
+*.zip
+*.SchDocPreview
+*.PcbDocPreview
+*.Zip
+*.Dat
+*.PrjPCBStructure
+*.Identifier
+*.xls
+*.PCL
+*.Annotation
