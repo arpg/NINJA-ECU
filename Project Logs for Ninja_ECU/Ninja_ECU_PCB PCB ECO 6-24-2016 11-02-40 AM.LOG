@@ -1,0 +1,4 @@
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_10
+Change Rule Scope 1 : Old Scope=InNet('5V_OUT2') New Scope=InNet('5V_OUT1')
+Change Rule Scope 1 : Old Scope=InNet('NetD1_DR2_1') New Scope=InNet('NetD1_DR1_1')
