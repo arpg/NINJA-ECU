@@ -1,8 +1,0 @@
-Added Component: Designator=PWR1(TERM2)
-Added Component: Designator=PWR2(TERM2)
-Added Pin To Net: NetName=PGND Pin=PWR1-1
-Added Pin To Net: NetName=V_MOTOR Pin=PWR1-2
-Added Pin To Net: NetName=PGND Pin=PWR2-1
-Added Pin To Net: NetName=V_MOTOR Pin=PWR2-2
-Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component PWR1 Computer Power
-Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component PWR2 Battery Power
