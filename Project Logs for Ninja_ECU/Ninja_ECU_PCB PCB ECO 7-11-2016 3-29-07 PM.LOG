@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=STM32_Microcontroller Member=R95
+Removed Member From Class: ClassName=STM32_Microcontroller Member=R96
+Removed Member From Class: ClassName=STM32_Microcontroller Member=R97
+Removed Member From Class: ClassName=STM32_Microcontroller Member=R98
+Added Pin To Net: NetName=5V_IN1 Pin=R95-1
+Added Pin To Net: NetName=5V_IN1 Pin=R96-1
+Added Pin To Net: NetName=5V_IN1 Pin=R97-1
+Added Pin To Net: NetName=5V_IN1 Pin=R98-1
+Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component R95 0R
+Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component R96 0R
+Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component R97 0R
+Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component R98 0R

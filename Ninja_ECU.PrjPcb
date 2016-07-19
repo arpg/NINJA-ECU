@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIJTHLML
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Ninja_3_2\Design Rule Check - Ninja_ECU_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

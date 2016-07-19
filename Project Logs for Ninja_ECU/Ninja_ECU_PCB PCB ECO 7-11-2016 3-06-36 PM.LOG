@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3_STM Pin=U8-5
+Removed Pin From Net: NetName=GND_STM Pin=U8-8
+Change Component Footprint: Designator=L4 Old Footprint=VLC2 New Footprint=SDR0805
+Change Component Comment : Designator=R54_DR1 Old Comment=1M New Comment=DNI
+Change Component Comment : Designator=R54_DR2 Old Comment=1M New Comment=DNI
+Added Pin To Net: NetName=GND_STM Pin=U8-5
+Added Pin To Net: NetName=3V3_STM Pin=U8-8
+Change Net Name : Old Net Name=5V_IRFS New Net Name=5V_IN
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_5
+Change Rule Scope 1 : Old Scope=InNet('5V_OUT1') New Scope=InNet('5V_OUT2')
+Change Rule Scope 1 : Old Scope=InNet('NetC40_DR1_2') New Scope=InNet('NetC40_DR2_2')
+Change Rule Scope 1 : Old Scope=InNet('NetD1_DR2_1') New Scope=InNet('NetD1_DR1_1')
