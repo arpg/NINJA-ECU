@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Zasmussen\Documents\ARPG\Github\NINJA-ECU\Ninja_ECU_PCB.PcbDoc
-Date     : 7/12/2016
-Time     : 3:00:16 PM
+PCB File : C:\Users\zacas\OneDrive\Documents\Github\NINJA-ECU\Ninja_ECU_PCB.PcbDoc
+Date     : 11/4/2016
+Time     : 4:07:00 PM
 
 Processing Rule : Width Constraint (Min=19.685mil) (Max=196.85mil) (Preferred=27.559mil) (InNet('NetD1_DR1_1'))
 Rule Violations :0
@@ -39,7 +39,7 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=1.968mil) (IsPad),(All)
@@ -89,4 +89,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:07
+Time Elapsed        : 00:00:08

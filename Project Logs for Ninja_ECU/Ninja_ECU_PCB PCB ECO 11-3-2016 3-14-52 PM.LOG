@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_STM Pin=Serv2-1
+Removed Pin From Net: NetName=5V_SERVO Pin=Serv2-2
+Removed Pin From Net: NetName=NetServ1_3 Pin=U1-48
+Removed Member From Class: ClassName=STM32_Microcontroller Member=Serv2
+Added Pin To Net: NetName=NetServ1_3 Pin=U1-95

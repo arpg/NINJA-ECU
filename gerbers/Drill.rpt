@@ -1,0 +1,24 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\zacas\OneDrive\Documents\Github\NINJA-ECU\gerbers\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0080		228
+ 2 		0.0100		3
+ 3 		0.0110		10
+ 4 		0.0120		12
+ 5 		0.0130		104
+ 7 		0.0150		1
+ 8 		0.0200		4
+ 9 		0.0300		1
+ 10 		0.0354		3
+ 11 		0.0400		6
+ 12 		0.0700		1
+ 13 		0.0787		4
+ 14 		0.1260		14

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetR65_2 Pin=U7-34
+Added Pin To Net: NetName=NetR65_1 Pin=U8-2
+Change Net Name : Old Net Name=NetR65_1 New Net Name=NetU7_60
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetU7_34
+Added Member To Class: ClassName=Sheet_Ninja_ECU Member=Component R96 0R

@@ -1,0 +1,14 @@
+Change Component Comment : Designator=C18 Old Comment=10uF New Comment=10uF/35V
+Change Component Comment : Designator=USB2 Old Comment=Computer USB New Comment=USB1
+Change Component Comment : Designator=GPS1 Old Comment=GPS Connector New Comment=GPS_Con
+Change Component Comment : Designator=IMU1 Old Comment=IMU Connector New Comment=IMU_Con
+Added Component: Designator=Valve1(Header 4  -MolexPicoBlade)
+Added Pin To Net: NetName=V_MOTOR Pin=Valve1-1
+Added Pin To Net: NetName=GND_STM Pin=Valve1-4
+Added Pin To Net: NetName=NetU7_48 Pin=U7-48
+Added Pin To Net: NetName=NetU7_48 Pin=Valve1-2
+Added Net: Name=NetU7_48
+Added Pin To Net: NetName=NetU7_52 Pin=U7-52
+Added Pin To Net: NetName=NetU7_52 Pin=Valve1-3
+Added Net: Name=NetU7_52
+Added Member To Class: ClassName=FT4232_USB Member=Component Valve1
