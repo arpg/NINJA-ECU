@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\zacas\OneDrive\Documents\Github\NINJA-ECU\Ninja_ECU_PCB.PcbDoc
+Date     : 1/26/2017
+Time     : 5:21:50 PM
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('5V_IRFS'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('NetC44_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('5V_IRFS'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('5V_SERVO'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.229mm) (Max=5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.381mm) (MaxHoleWidth=1.5mm) (PreferredHoleWidth=0.8mm) (MinWidth=0.6mm) (MaxWidth=2mm) (PreferedWidth=1.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.381mm) (Max=3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (41.245mm,26.041mm) from Top Layer to Bottom Layer And Via (41.245mm,26.041mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :1
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.05mm) Between Track (11.557mm,64.516mm)(12.446mm,64.516mm) on Top Overlay And Pad D1-1(13.716mm,64.897mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.05mm) Between Track (12.446mm,63.246mm)(12.446mm,64.48mm) on Top Overlay And Pad D1-1(13.716mm,64.897mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.05mm) Between Text "C51" (36.367mm,54.942mm) on Top Overlay And Pad R74-1(36.703mm,54.737mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.05mm) Between Text "C34" (35.687mm,36.019mm) on Bottom Overlay And Pad C38-2(35.482mm,34.925mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (35.179mm,34.301mm)(35.179mm,35.765mm) on Top Layer 
+   Violation between Net Antennae: Track (35.179mm,37.465mm)(35.312mm,37.332mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Un-Connected Pin Constraint ( (Disabled)(All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('3V3_IRFS'))
+   Violation between Width Constraint: Track (30.202mm,37.949mm)(30.202mm,38.332mm) on Bottom Layer Actual Width = 0.25mm, Target Width = 0.5mm
+   Violation between Width Constraint: Track (29.083mm,36.83mm)(30.202mm,37.949mm) on Bottom Layer Actual Width = 0.25mm, Target Width = 0.5mm
+   Violation between Width Constraint: Track (30.226mm,38.356mm)(30.226mm,38.862mm) on Bottom Layer Actual Width = 0.25mm, Target Width = 0.5mm
+   Violation between Width Constraint: Track (30.202mm,38.332mm)(30.226mm,38.356mm) on Bottom Layer Actual Width = 0.25mm, Target Width = 0.5mm
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=5mm) (Preferred=0.7mm) (InNet('NetD1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=0.7mm) (InNet('VDD_IRFS'))
+Rule Violations :0
+
+
+Violations Detected : 11
+Time Elapsed        : 00:00:04

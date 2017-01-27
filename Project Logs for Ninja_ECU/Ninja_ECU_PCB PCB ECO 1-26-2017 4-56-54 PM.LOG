@@ -1,0 +1,7 @@
+Added Component: Designator=C72(0805)
+Added Pin To Net: NetName=GND_STM Pin=C72-2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR88_1
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=U2-55
+Added Net: Name=NetC72_1
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C72 1uF
