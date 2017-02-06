@@ -1,0 +1,8 @@
+Added Component: Designator=C37(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1088-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=GND_STM Pin=C37-2
+Added Member To Class: ClassName=FT4232_USB Member=Component C37 100nF
