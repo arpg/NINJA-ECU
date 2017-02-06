@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VDD_IRFS Pin=D1-2
+Removed Pin From Net: NetName=VDD_IRFS Pin=D3-1
+Removed Pin From Net: NetName=NetC47_2 Pin=D3-2
+Removed Member From Class: ClassName=IRFS7530_Driver Member=D3
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-4 New Footprint=FSV330AF/FSV340AF
+Change Component Footprint: Designator=L3 Old Footprint=VLC2 New Footprint=INDUCTOR-5
+Change Component Comment : Designator=D1 Old Comment=1N5821 New Comment=FSV330AF
+Change Component Comment : Designator=C40 Old Comment=100uF/16V New Comment=100uF
+Change Component Comment : Designator=L3 Old Comment=100uH New Comment=DNI
+Added Component: Designator=C73(1608[0603])
+Added Component: Designator=C74(6032 [2312])
+Added Component: Designator=C75(1608[0603])
+Added Component: Designator=C76(Large_SMD_Cap)
+Added Component: Designator=C77(Large_SMD_Cap)
+Added Component: Designator=D4(FSV330AF/FSV340AF)
+Added Component: Designator=R89(1608[0603])
+Added Component: Designator=R90(2012[0805])
+Added Pin To Net: NetName=GND_STM Pin=C73-2
+Added Pin To Net: NetName=GND_STM Pin=C74-1
+Added Pin To Net: NetName=VDD_IRFS Pin=C75-1
+Added Pin To Net: NetName=GND_STM Pin=C75-2
+Added Pin To Net: NetName=GND_STM Pin=C76-1
+Added Pin To Net: NetName=VDD_IRFS Pin=C76-2
+Added Pin To Net: NetName=GND_STM Pin=C77-1
+Added Pin To Net: NetName=NetC47_2 Pin=C77-2
+Added Pin To Net: NetName=NetC47_2 Pin=D4-2
+Added Pin To Net: NetName=VDD_IRFS Pin=R89-1
+Added Pin To Net: NetName=VDD_IRFS Pin=R90-1
+Change Net Name : Old Net Name=NetC47_2 New Net Name=PVDD1
+Change Net Name : Old Net Name=VDD_IRFS New Net Name=PVDD2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R89-2
+Added Pin To Net: NetName=NetD1_2 Pin=R90-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=V_BATT Pin=C73-1
+Added Pin To Net: NetName=V_BATT Pin=C74-2
+Added Pin To Net: NetName=V_BATT Pin=D1-1
+Added Pin To Net: NetName=V_BATT Pin=D4-1
+Added Pin To Net: NetName=V_BATT Pin=L3-2
+Added Net: Name=V_BATT
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C73 100nF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C74 100uF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C75 100nF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C76 1000uF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component C77 1000uF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component D4 FSV330AF
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component R89 10
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component R90 1
+Change Rule Scope 1 : Old Scope=InNet('VDD_IRFS') New Scope=InNet('PVDD2')
+Change Rule Scope 1 : Old Scope=InNet('NetD1_1') New Scope=InNet('V_BATT')

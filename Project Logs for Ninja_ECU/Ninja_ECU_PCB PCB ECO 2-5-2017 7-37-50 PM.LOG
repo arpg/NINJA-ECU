@@ -1,0 +1,8 @@
+Added Component: Designator=PWR1_BATT(TERM2)
+Added Component: Designator=PWR2_COMP(TERM2)
+Added Pin To Net: NetName=GND_STM Pin=PWR1_BATT-1
+Added Pin To Net: NetName=V_BATT Pin=PWR1_BATT-2
+Added Pin To Net: NetName=GND_STM Pin=PWR2_COMP-1
+Added Pin To Net: NetName=V_BATT Pin=PWR2_COMP-2
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component PWR1_BATT Terminal2
+Added Member To Class: ClassName=IRFS7530_Driver Member=Component PWR2_COMP Terminal2
