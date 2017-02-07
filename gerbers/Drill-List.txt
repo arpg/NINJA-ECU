@@ -1,0 +1,14 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Units: English (Inch)
+
+TOOL        SIZE        COUNT
+====        ======      =====
+
+ 1      0.0150      313
+ 2      0.0280      3
+ 3      0.0300      11
+ 4      0.0315      3
+ 5      0.0354      8
+ 6      0.0787      4
+ 7      0.1260      7

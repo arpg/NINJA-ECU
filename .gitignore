@@ -1,8 +1,12 @@
 # project output folders
 Exports
 History
-Project Logs for Project NINJA-ECU
-Project Outputs for Project NINJA-ECU
+"Project Logs for Ninja_ECU"
+"Project Outputs for Ninja_ECU"
+Project\ Logs\ for\ Ninja_ECU
+Project\ Outputs\ for\ Ninja_ECU
+"gerbers/History"
+"gerbers/_previews"
 
 # project generated files
 *.htm
@@ -17,3 +21,4 @@ Project Outputs for Project NINJA-ECU
 *.PCL
 *.Annotation
 *.cam
+
