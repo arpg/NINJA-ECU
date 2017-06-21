@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=C72 Old Footprint=6032 [2312] New Footprint=1608[0603]
-Added Component: Designator=R88(1608[0603])
-Added Pin To Net: NetName=NetR88_1 Pin=R88-1
-Added Pin To Net: NetName=NetR66_1 Pin=R88-2
-Added Member To Class: ClassName=FT4232_USB Member=Component R88 DNI
