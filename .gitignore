@@ -1,12 +1,10 @@
 # project output folders
-Exports
-History
-"Project Logs for Ninja_ECU"
-"Project Outputs for Ninja_ECU"
-Project\ Logs\ for\ Ninja_ECU
-Project\ Outputs\ for\ Ninja_ECU
-"gerbers/History"
-"gerbers/_previews"
+/Exports/
+/History/
+/Project Logs for Ninja_ECU/
+/Project Outputs for Ninja_ECU/
+/gerbers\ History/
+/gerbers\ __Previews/
 
 # project generated files
 *.htm
